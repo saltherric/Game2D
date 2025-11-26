@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 425372cb83c149d44a532a9d2e09f9b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - txtResult: {instanceID: 0}
+  - txtScoreYou: {instanceID: 0}
+  - txtScoreCom: {instanceID: 0}
+  - imgYou: {instanceID: 0}
+  - imgCom: {instanceID: 0}
+  - rockSprite: {instanceID: 0}
+  - paperSprite: {instanceID: 0}
+  - scissorSprite: {instanceID: 0}
+  - resultAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

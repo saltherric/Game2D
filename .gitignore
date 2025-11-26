@@ -1,0 +1,36 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Pp]rojectSettings/UnityConnectSettings.asset
+[Pp]rojectSettings/EditorBuildSettings.asset
+[Pp]rojectSettings/QualitySettings.asset
+[Pp]rojectSettings/ClusterInputManager.asset
+[Pp]rojectSettings/ProjectVersion.txt
+[Pp]rojectSettings/UnitySettings.asset
+[Pp]rojectSettings/VFXManager.asset
+[Pp]rojectSettings/DynamicsManager.asset
+[Pp]rojectSettings/Physics2DSettings.asset
+[Pp]rojectSettings/InputManager.asset
+[Pp]rojectSettings/TagManager.asset
+[Pp]rojectSettings/GraphicsSettings.asset
+[Pp]rojectSettings/Packages/manifest.json
+[Pp]rojectSettings/Packages/packages-lock.json
+[Pp]rojectSettings/PackageManager/manifest.json
+[Pp]rojectSettings/PackageManager/packages-lock.json
+
+# Unity cache
+UserSettings/
+
+# Auto-generated VS/IDE files
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.svd
+*.pdb
+
